@@ -1,0 +1,1 @@
+I did the first 20 steps of the basic css section freeCodeCamp today see day2.html.
