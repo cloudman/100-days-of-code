@@ -1,0 +1,1 @@
+Day 6 #100DaysOfCode I completed the Basic CSS section on FreeCodeCamp and began the next section on Applied Graphic Design.
