@@ -1,0 +1,1 @@
+Day7 #100DaysOfCode I did 20 more code challenges in Applied Visual Design of freeCodeCamp. (Missed a day yesterday)
