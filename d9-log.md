@@ -1,0 +1,1 @@
+Day#9 #100DaysOfCode I finished the Applied Visual Design section of FreeCodeCamp.
