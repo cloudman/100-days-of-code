@@ -1,0 +1,1 @@
+Day#10 #100DaysOfFreeCodeCamp I did the complete section Applied Accessibility of FreeCodeCamp today. On to the next section Responsive Web Design Principles tomorrow.
