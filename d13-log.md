@@ -1,0 +1,1 @@
+Day#13 log #100DaysOfCode: I stayed up late Tuesday night past midnight and I did the whole section CSS Grid of FreeCodeCamp.
