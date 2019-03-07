@@ -1,0 +1,1 @@
+Day#14 log I did the first 35 or so code challenges of Basic JavaScript section of FreeCodeCamp. day14.html shows the last code challenge, showing the use of the length attribute of Strings.
