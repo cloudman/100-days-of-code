@@ -1,0 +1,1 @@
+Day#22 #100DaysOfCode I finished the ES 6 section on JavaScript ES6 from FreeCodeCamp.
