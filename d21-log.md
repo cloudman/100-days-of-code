@@ -1,0 +1,1 @@
+Day21 #100DaysOfCode I did code challenges on array destructuring from the ES6 section of FreeCodeCamp
