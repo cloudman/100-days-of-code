@@ -1,0 +1,1 @@
+Day#25 log #100DaysOfCode Today I did the Debugging section of FreeCodeCamp.
