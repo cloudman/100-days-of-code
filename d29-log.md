@@ -1,1 +1,1 @@
-Day#29 Log #100DaysOfCode I finished the Basic Algorithm section of FreeCodeCamp.
+Day#29 Log #100DaysOfCode I finished the Basic Algorithm Scripting section of FreeCodeCamp.
