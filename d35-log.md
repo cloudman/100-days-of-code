@@ -1,0 +1,1 @@
+Day#35 Log #100DaysOfCode I finished the Functional Programming section of FreeCodeCamp, completing last 7 code challenges.
