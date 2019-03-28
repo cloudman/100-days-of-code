@@ -1,0 +1,1 @@
+I continued working on Intermediate Algorithm Scripting from FreeCodeCamp, completing the challenge Search and Destroy and started working Wherefore Art thou.
