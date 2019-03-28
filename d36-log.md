@@ -1,0 +1,1 @@
+Day#36 Log #100DaysOfCode I did the first two code challenges of Intermediate Algorithm Scripting of FreeCodeCamp.
