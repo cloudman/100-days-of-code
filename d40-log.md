@@ -1,0 +1,1 @@
+Day#40 Log #100DaysOfCode I continued working on Intermediate Algorithm Scripting section of FreeCodeCamp.
