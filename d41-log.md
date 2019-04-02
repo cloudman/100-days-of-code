@@ -1,0 +1,1 @@
+Day#41 #100DaysOfCode I continued working on Intermediate Algorithm Scripting section of FreeCodeCamp, completing code challenge Missing Letters.
