@@ -1,0 +1,1 @@
+Day43 #100DaysOfCode I finished the code challenge Smallest Common Multiple from Intermediate Algorithm Scripting from FreeCodeCamp. I had several crashes in FCC forcing me to start over.
