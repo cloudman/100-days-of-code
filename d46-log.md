@@ -1,0 +1,1 @@
+Day46 Log #100DaysOfCode I continued working on Intermediate Algorithm Scripting from FreeCodeCamp, completing the challenge Arguments Optional.
