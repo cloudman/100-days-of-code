@@ -1,0 +1,1 @@
+Day#48 Log #100DaysOfCode I finished the Intermediate Algorithm Scripting section of FreeCodeCamp, completing the challenge "Make A Person".
