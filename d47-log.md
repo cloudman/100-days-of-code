@@ -1,0 +1,1 @@
+Day#47 #100DaysOfCode I continued working on Intermediate Algorithm Scripting section of FreeCodeCamp, completing the challenge Mapping the Debris.
