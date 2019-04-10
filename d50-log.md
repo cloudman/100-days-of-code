@@ -1,0 +1,1 @@
+Day#50 Log #100DaysOfCode I completed the two projects of JavaScript Algorithms and Data Structures of FreeCodeCamp, including Palindrome Checker and Roman Numeral Converter.
