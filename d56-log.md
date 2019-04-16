@@ -1,0 +1,1 @@
+Day#56 Log #100DaysOfCode I continued working on Bootstrap section of FreeCodeCamp, completing the next 6 code challenges.
