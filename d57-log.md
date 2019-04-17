@@ -1,0 +1,1 @@
+Day#57 Log #100DaysOfCode I completed the Bootstrap section of FreeCodeCamp and began the jQuery section of FreeCodeCamp.
