@@ -1,0 +1,1 @@
+Day#58 Log #100DaysOfCode I continued working on the Introduction to jQuery section of FreeCodeCamp, completing 8 code challenges.
