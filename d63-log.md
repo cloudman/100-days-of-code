@@ -1,0 +1,1 @@
+Day#63 Log #100DaysOfCode I continued working on the React section of FreeCodeCamp, completing the next 7 challenges covering the use of Props.
