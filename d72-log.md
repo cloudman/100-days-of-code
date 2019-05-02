@@ -1,0 +1,1 @@
+Day#72 Log #100DaysOfCode I continued working on the Redux section of FreeCodeCamp, completing four more challenges.
